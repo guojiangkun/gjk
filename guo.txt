@@ -2,3 +2,5 @@ guojiangkun
 Git has a mutable index called stage
 Git tracks changes.
 gujiangkun guojiangkun
+guojiangkun guojiangkun 
+guojiangkun guojiangkun
